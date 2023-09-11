@@ -38,3 +38,6 @@ site/.dumi/tmp-production
 
 # Editor
 .vscode
+
+
+!test_integration.log
